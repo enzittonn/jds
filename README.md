@@ -1,5 +1,6 @@
 # jds
-java data structures
+java data structures search & sort.
+Code from Derek Banas.
 
 ```java
 public class ArrayStructures {
